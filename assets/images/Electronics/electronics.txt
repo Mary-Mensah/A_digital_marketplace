@@ -1,0 +1,86 @@
+elec1
+product Name: Syinix SB580 Sound Bar
+description:  This Syinix Soundbar will offer an incredible listening experience whenever you listen to your favourite entertainment. 
+weight: 5kg
+dimension: 84*30*26
+color: Black
+
+elec2
+name: Asano Smart Android Tv
+description: With this Asano  Smart Satellite Android TV, you will not only watch the sport at your convenience but also in the best way possible.
+weight: 4kg
+dimension: 32.0 Inches
+color: Black
+
+elec3
+name: Triple Power Bluetooth
+description: Enjoy your favourite tunes on this portable music box. Connect any Bluetooth playing device you have a full-blown sound system.
+weight: 1.5kg
+dimension: 20x18x15
+color: Black
+
+elec4
+name: UCOM Double Game Controllers
+description: UCOM Game controller for the PC games provides the most intuitive game play experience with pressure sensors in each action button and the inclusion of the highly motion sensing technology
+weight: 2kg
+color: Black
+
+elec5
+name: Wireless Headset with Bluetooth
+description: The headphones offer not only sleek style with a slim profile but also an adjustable contoured headband, it allows you to get a great position on your head.
+weight: 0.4kg
+color: Black
+
+elec6
+name:Oraimo FreePods Pro
+description: Oraimo designed Pro Hybrid Active Noise Cancellation Technology can get rid of up to 35dB noise for a quiet listening experience.
+weight: 0.331
+color: Black
+
+elec7
+name: A2000 Mini Portable Projector 
+description:Being portable and lightweight, this cute projector can be placed at any place.
+weight: 0.72kg
+color: white
+
+elec8
+name: Indoor HD Digital TV Antenna
+description:The TV antenna is easy to install, allowing you to place it almost anywhere without the need for a power source
+weight: 0.17
+dimension: 210x120x0.8
+color: Black
+
+elec9
+name: G7 Bluetooth Handsfree Car FM Transmitter
+description: Bluetooth FM transmitter sends the music of mobile phones / U disk / TF card to car audio.
+weight: 0.3kg
+dimension: 15 x 15 x 10
+color: Pink, Ash, LightPink
+
+elec10
+name: Electrical Voltage Tester Pen
+description: This electrical voltage tester is designed for DC 6V/12V/24V
+weight: 0.12kg
+color: Naturla
+dimension: 20.40 x 9.50 x 3.00
+color: yellow
+
+elec 11
+name: Lenovo IdeaPad 3
+description: The Lenovo Idea pad 3  15.6" Laptop is part of our Everyday range of simple and reliable PCs.
+weight: 2kg
+model: IDEAPAD 3 15GL05
+color: Black
+
+elec12
+name: Plastic Case for Macbook Pro
+description: It protects the equipment from normal scratches, dirt, tears and abrasion.
+weight: 0.28kg
+dimension: 13.3 inch
+color: Pink Blue
+
+elec13
+name: port Wrist Strap
+description:Made of high quality elastomer, prevents skin from irritation, soft, lightweight and durable, very comfortable to wear.
+weight: 0.04kg
+color: Blue
